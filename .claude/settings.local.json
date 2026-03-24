@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx vite:*)",
+      "Bash(gh auth:*)",
+      "Bash(gh repo:*)",
+      "Bash(ls \"/c/Users/neman/Downloads/react-intermediate-presentation \\(1\\)/react-intermediate-presentation/.github\")",
+      "Bash(cat:*)",
+      "Bash(gh api:*)",
+      "Bash(gh run:*)"
+    ]
+  }
+}
